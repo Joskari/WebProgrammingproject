@@ -25,9 +25,7 @@ p {
     padding: 10px 50px;
 }
 
-.nav-link{
-    mx: 5px;
-}
+
 .indexinfot{
     display: flex;
     flex-direction: column;
